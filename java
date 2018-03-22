@@ -41,8 +41,6 @@ sbf = new StringBuffer(bi);
 de = de / 2 ;
 
 if (d==1){
-//bi += "1";
-
 return ;
 }
 else
